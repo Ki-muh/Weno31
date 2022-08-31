@@ -1,0 +1,15 @@
+
+{
+    "animals": [
+      {
+        "id": 1,
+        "imageUrl" : "https://cdn.britannica.com/78/232778-050-D3701AB1/English-bulldog-dog.jpg",
+        "breed" : "Bulldog"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
+        "breed": "German Shepherd"
+      }
+    ]
+  }
